@@ -5,7 +5,10 @@ A plug that can calculate the amount of energy consumed by an appliance and furt
 * Atmel Studio
 
 # Hardware Used 
-* Atmega328p
+* Atmega8
 * ESP8266
 * Current sensor 
 * 5V Relay
+* LEDs
+* Resistors
+* Module from a phone charger for voltage calculation
